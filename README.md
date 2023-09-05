@@ -12,25 +12,28 @@ I am setting up my lab enviornment to use for malware analysis, penetration test
 ### What I Did
 <p align="center">
 In this lab i set up my virtual enviornment using Virtual Box.(My Favorite). You can use other virtual Machines like VMware and Microsoft Hyper-V Manager aswell.
-  
-![image](https://github.com/alubin03/internship-projects/assets/141780397/484878d0-15c7-4300-b045-2696ecb79d4b)
-<p align="center">
-Then I Downloaded Kali Linux OVA file
+First thing i did was download Kali Linux OVA file and Windows ISO file.
 
-![image](https://github.com/alubin03/internship-projects/assets/141780397/e092f873-35e5-42a5-ab00-375b4e4c1629)
 <p align="center">
-Then I had to change the network to NAT network so the vms can reach each other
+Then I had to change the network to NAT network for BOTH machines the vms can reach each other
 
-![image](https://github.com/alubin03/ConnectingVMs/assets/141780397/8d112d89-7734-40c1-a3f0-6eea13102595)
+<p align="center">
+<img src="https://github.com/alubin03/ConnectingVMs/assets/141780397/8d112d89-7734-40c1-a3f0-6eea13102595"/>
+</p>
+
 <p align="center">
 "if config" to get the ip address
 
-![image](https://github.com/alubin03/ConnectingVMs/assets/141780397/65e61121-c560-4f87-9077-8ee5d263d5f1)
+<p align="center">
+<img src="https://github.com/alubin03/ConnectingVMs/assets/141780397/65e61121-c560-4f87-9077-8ee5d263d5f1"/>
+</p>
+
 <p align="center">
 Then ping the ip address (nick name is "manta")
-
-![image](https://github.com/alubin03/ConnectingVMs/assets/141780397/c5de7cd5-1592-4cb0-ab46-58b791cdf770)
-
+  
+<p align="center">
+<img src="https://github.com/alubin03/ConnectingVMs/assets/141780397/c5de7cd5-1592-4cb0-ab46-58b791cdf770"/>
+</p>
 <p align="center">
 Completed!
   
