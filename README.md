@@ -1,5 +1,5 @@
 
-## Lab Setup: Configuring NAT network to connect 2 VM
+## Configuring NAT network to connect 2 VM
 
 I am setting up my lab enviornment to use for malware analysis, penetration testing, and secure software testing.🌐
 
@@ -19,9 +19,18 @@ Then I Downloaded Kali Linux OVA file
 
 ![image](https://github.com/alubin03/internship-projects/assets/141780397/e092f873-35e5-42a5-ab00-375b4e4c1629)
 
-This is how they look in the Virtual Box
+Then I had to change the network to NAT network so the vms can reach each other
 
-![image](https://github.com/alubin03/internship-projects/assets/141780397/3680713f-d587-486c-aaa1-5dc1a9b15d97)
+![image](https://github.com/alubin03/ConnectingVMs/assets/141780397/8d112d89-7734-40c1-a3f0-6eea13102595)
+
+"if config" to get the ip address
+
+![image](https://github.com/alubin03/ConnectingVMs/assets/141780397/65e61121-c560-4f87-9077-8ee5d263d5f1)
+
+Then ping the ip address and it was successful
+
+![image](https://github.com/alubin03/ConnectingVMs/assets/141780397/c5de7cd5-1592-4cb0-ab46-58b791cdf770)
 
 
-## currently setting up....come back soon
+### What I learned from this
+
