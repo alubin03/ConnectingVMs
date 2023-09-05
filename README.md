@@ -37,4 +37,3 @@ Completed!
 ### Completion thoughts:
 I successfully configured a NAT network for connecting two virtual machines in my lab environment. This setup will be used for malware analysis, penetration testing, and secure software testing purposes. As with any technical project, I faced a few obstacles along the way. Initially, I ran into issues with a missing product key when attempting to use Windows 8 as my operating system. Additionally, setting up a Windows 10 ISO file took longer than expected. Nevertheless, I persevered and eventually managed to establish a NAT network so that both virtual machines could connect to it. This environment is now fully functional and available for use in future projects.
 
-https://youtu.be/cFXymwkt7Hw
