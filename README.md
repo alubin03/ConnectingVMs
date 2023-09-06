@@ -9,7 +9,7 @@ I am setting up my lab enviornment to use for malware analysis, penetration test
 - Kali Linux OVA file
 - Windows ISO file
 
-### What I Did
+### Program Walk-Thru
 <p align="center">
 In this lab i set up my virtual enviornment using Virtual Box.(My Favorite). You can use other virtual Machines like VMware and Microsoft Hyper-V Manager aswell.
 First thing i did was download Kali Linux OVA file and Windows ISO file.
