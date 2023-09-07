@@ -15,7 +15,7 @@ In this lab i set up my virtual enviornment using Virtual Box.(My Favorite). You
 First thing i did was download Kali Linux OVA file and Windows ISO file.
 
 <p align="center">
-Then I had to change the network to NAT network for BOTH machines the vms can reach each other
+The network on the vm is originally NAT I changed it to "NAT network" this allows BOTH machines to reach each other.
 
 <p align="center">
 <img src="https://github.com/alubin03/ConnectingVMs/assets/141780397/8d112d89-7734-40c1-a3f0-6eea13102595"/>
