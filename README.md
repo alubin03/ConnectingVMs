@@ -3,13 +3,13 @@
 
 I am setting up my lab enviornment to use for malware analysis, penetration testing, and secure software testing. But first i need to connect them by using NAT networking.🌐
 
-### Tools Used:
+### Tools Used🔨
 
 - VirtualBox Installer
 - Kali Linux OVA file
 - Windows ISO file
 
-### Program Walk-Thru
+### Program Walk-Thru🚶🏽‍♀️
 <p align="center">
 In this lab i set up my virtual enviornment using Virtual Box.(My Favorite). You can use other virtual Machines like VMware and Microsoft Hyper-V Manager aswell.
 First thing i did was download Kali Linux OVA file and Windows ISO file.
