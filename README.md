@@ -1,7 +1,9 @@
 
 ## Configuring NAT network to connect 2 VMs
 
-I am setting up my lab enviornment to use for malware analysis, penetration testing, and secure software testing. But first i need to connect them by using NAT networking.🌐
+I am setting up my lab enviornment to use for malware analysis, penetration testing, and secure software testing. But first I need to connect them by using NAT networking.🌐
+
+⚠️ I want to clarify that the following documentation is not intended to serve as a comprehensive, step-by-step guide for the lab that I have created. It is rather a record of my personal notes and observations on the lab⚠️
 
 ### Tools Used🔨
 
